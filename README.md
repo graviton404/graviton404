@@ -1,28 +1,14 @@
-## Hi, I'm Anjali 👋
+<h2 align="center">Hi, I'm Anjali 👋</h2>
 
-<!--
-**graviton404/graviton404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="font-size: 16px;">
+  <b>BS-MS Physics Student</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center" style="font-size: 14px;">
+  🌌 Cosmology • Gravitational Waves • Particle Physics <br>
+  💻 Computational Physics • Data Analysis
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🎓 BS-MS Physics Student  
-🌌 Interested in Cosmology, Gravitational Waves & Particle Physics
-💻 Exploring Computational Physics and Data Analysis  
-
----
-
-## 📫 Connect with Me  
-- Email: anjalievoor@gmail.com  
-
----
-⭐ *“Physics is not just about equations, but understanding the universe through them.”*
+<p align="center" style="font-size: 13px;">
+  <em>Exploring the universe through theory and computation</em>
+</p>
